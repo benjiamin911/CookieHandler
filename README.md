@@ -15,15 +15,16 @@ pip3 install -r ./requirements.txt
 ```
 
 ## How to use
-/opt/homebrew/bin/python3 ./decryptor.py --cookieDB <Cookie FileLocation> --keychainDB <keychainDB FileLocation> --userpass <PASSWORD>
+```/opt/homebrew/bin/python3 ./decryptor.py --cookieDB <Cookie FileLocation> --keychainDB <keychainDB FileLocation> --userpass <PASSWORD>```
 
 ## Maybe a better way to import cookie & manage
 **Can use this plugin to import the cookies(JSON Format)**
+
 https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
 
 **Can use this plugin to verify the cookies are imported correctly**
+
 https://chrome.google.com/webstore/detail/cookie-editor/iphcomljdfghbkdcfndaijbokpgddeno
 
 **Contributor**
-Shout out to @Jordan Sinclair
-Shout out to @Stark Li
+Shout out to @Jordan Sinclair & @Stark Li
