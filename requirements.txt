@@ -1,0 +1,2 @@
+chainbreaker.egg==info
+pycryptodome==3.18.0
