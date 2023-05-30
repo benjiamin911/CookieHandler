@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+q#! /usr/bin/env python3
 from Crypto.Cipher import AES
 from Crypto.Protocol.KDF import PBKDF2
 import sqlite3
